@@ -4,7 +4,7 @@ from random import *
 from time import *
 os.environ['SDL_VIDEO_CENTERED'] = '1'
 pygame.init()
-back = (255, 255, 255)
+back = (255, 255, 200)
 black = (0, 0, 0)
 red = (0, 0, 0)
 w = 1600
